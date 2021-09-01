@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M+yOxKgpEOLYlJfS0JFvB0oVPXFCtH2rgWkQPctNIFcDI2kjKX8nhqN0fIPkIR2eDuCArIncbyThkCJ91dcEXg==",
+  "dgSpecHash": "ceViEiTBIQvXgovlcMzanN40+QnEfxU9JTIzsFY0jOPfaUpWzUSTz7drSsIcCsKG0kF7LMtssfr0iWCTd1FfRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj",
+  "projectFilePath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CARLINHO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\CARLINHO\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

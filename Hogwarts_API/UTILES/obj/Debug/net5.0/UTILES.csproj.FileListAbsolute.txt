@@ -10,3 +10,15 @@ C:\Users\CARLINHO\source\repos\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.cspro
 C:\Users\CARLINHO\source\repos\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.dll
 C:\Users\CARLINHO\source\repos\Hogwarts_API\UTILES\obj\Debug\net5.0\ref\UTILES.dll
 C:\Users\CARLINHO\source\repos\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.pdb
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\bin\Debug\net5.0\UTILES.deps.json
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\bin\Debug\net5.0\UTILES.dll
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\bin\Debug\net5.0\ref\UTILES.dll
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\bin\Debug\net5.0\UTILES.pdb
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.csproj.AssemblyReference.cache
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.AssemblyInfoInputs.cache
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.AssemblyInfo.cs
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.csproj.CoreCompileInputs.cache
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.dll
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\obj\Debug\net5.0\ref\UTILES.dll
+C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\UTILES\obj\Debug\net5.0\UTILES.pdb

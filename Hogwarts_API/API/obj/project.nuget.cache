@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XsXMMK1eOs0SBr8DfP7tAE31gDevwFFSUoMoVwuG8nEQcyS1WULAUs0NZhlq+0wJq+gNb6MNdwkCRs++AKW23w==",
+  "dgSpecHash": "q8KoRwA8JilFJ/uvwlIsmW51QjPMnJBjpJGU1lzorhPjp7riZM0gkUuigQ9duc6bUiu/9J+BkwLJwZQAmRjjGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CARLINHO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\CARLINHO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

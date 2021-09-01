@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj": {}
+    "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj": {
+    "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\DATOS\\MODELOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj",
+        "projectUniqueName": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\DATOS\\MODELOS.csproj",
         "projectName": "MODELOS",
-        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj",
+        "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\DATOS\\MODELOS.csproj",
         "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\obj\\",
+        "outputPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\DATOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj": {
+    "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj",
+        "projectUniqueName": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj",
         "projectName": "Hogwarts",
-        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj",
+        "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj",
         "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\obj\\",
+        "outputPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\Hogwarts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,11 +90,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj": {
-                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj"
+              "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj"
               },
-              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj": {
-                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj"
+              "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj"
               }
             }
           }
@@ -127,14 +127,14 @@
         }
       }
     },
-    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj": {
+    "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj",
+        "projectUniqueName": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj",
         "projectName": "ACCESO",
-        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj",
+        "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj",
         "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\obj\\",
+        "outputPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\NEGOCIO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -155,11 +155,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj": {
-                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj"
+              "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\DATOS\\MODELOS.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\DATOS\\MODELOS.csproj"
               },
-              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj": {
-                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj"
+              "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj"
               }
             }
           }
@@ -206,14 +206,14 @@
         }
       }
     },
-    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj": {
+    "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj",
+        "projectUniqueName": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj",
         "projectName": "REPOSITORIO",
-        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj",
+        "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj",
         "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\obj\\",
+        "outputPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -234,11 +234,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj": {
-                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj"
+              "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj"
               },
-              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj": {
-                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj"
+              "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj"
               }
             }
           }
@@ -271,14 +271,14 @@
         }
       }
     },
-    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj": {
+    "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj",
+        "projectUniqueName": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj",
         "projectName": "UTILES",
-        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj",
+        "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\UTILES.csproj",
         "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\obj\\",
+        "outputPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\UTILES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
