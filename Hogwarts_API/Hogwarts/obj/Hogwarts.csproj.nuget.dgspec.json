@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj",
+        "projectName": "MODELOS",
+        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj",
+        "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLINHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\CARLINHO\\Downloads\\paquetes": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj",
+        "projectName": "Hogwarts",
+        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj",
+        "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\Hogwarts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLINHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\CARLINHO\\Downloads\\paquetes": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj"
+              },
+              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj",
+        "projectName": "ACCESO",
+        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj",
+        "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLINHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\CARLINHO\\Downloads\\paquetes": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\DATOS\\MODELOS.csproj"
+              },
+              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview.5.21301.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0-preview.7.21377.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj",
+        "projectName": "REPOSITORIO",
+        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj",
+        "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\REPOSITORIO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLINHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\CARLINHO\\Downloads\\paquetes": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj"
+              },
+              "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj": {
+                "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj",
+        "projectName": "UTILES",
+        "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\UTILES.csproj",
+        "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\UTILES\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CARLINHO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\CARLINHO\\Downloads\\paquetes": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\bin\Debug\net5.0\NEGOCIO.deps.json
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\bin\Debug\net5.0\NEGOCIO.dll
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\bin\Debug\net5.0\ref\NEGOCIO.dll
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\bin\Debug\net5.0\NEGOCIO.pdb
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\obj\Debug\net5.0\NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\obj\Debug\net5.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\obj\Debug\net5.0\NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\obj\Debug\net5.0\NEGOCIO.AssemblyInfo.cs
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\obj\Debug\net5.0\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\obj\Debug\net5.0\NEGOCIO.dll
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\obj\Debug\net5.0\ref\NEGOCIO.dll
+C:\Users\CARLINHO\source\repos\Hogwarts_API\NEGOCIO\obj\Debug\net5.0\NEGOCIO.pdb

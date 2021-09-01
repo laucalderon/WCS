@@ -1,0 +1,11 @@
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\bin\Debug\net5.0\MODELOS.deps.json
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\bin\Debug\net5.0\MODELOS.dll
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\bin\Debug\net5.0\ref\MODELOS.dll
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\bin\Debug\net5.0\MODELOS.pdb
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\obj\Debug\net5.0\MODELOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\obj\Debug\net5.0\MODELOS.AssemblyInfoInputs.cache
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\obj\Debug\net5.0\MODELOS.AssemblyInfo.cs
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\obj\Debug\net5.0\MODELOS.csproj.CoreCompileInputs.cache
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\obj\Debug\net5.0\MODELOS.dll
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\obj\Debug\net5.0\ref\MODELOS.dll
+C:\Users\CARLINHO\source\repos\Hogwarts_API\MODELOS\obj\Debug\net5.0\MODELOS.pdb

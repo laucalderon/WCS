@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\REPOSITORIO\REPOSITORIO.csproj" />
+    <ProjectReference Include="..\UTILES\UTILES.csproj" />
+  </ItemGroup>
+
+</Project>

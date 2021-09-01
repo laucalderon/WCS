@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NEGOCIO/1.0.0": {
+        "runtime": {
+          "NEGOCIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NEGOCIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

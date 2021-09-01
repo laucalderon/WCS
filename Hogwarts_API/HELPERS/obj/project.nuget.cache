@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3uTx8P4HOWe7BjZ4bP58/IQd+U9dwS8Bj8eIin3PG/suOcpeKhVZtt+KSNyT84bL83AryaY6LWY90XHdo8nHOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CARLINHO\\source\\repos\\Hogwarts_API\\HELPERS\\HELPERS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CARLINHO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\CARLINHO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\CARLINHO\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

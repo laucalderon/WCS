@@ -1,0 +1,5 @@
+C:\Users\CARLINHO\source\repos\Hogwarts_API\HELPERS\obj\Debug\net5.0\HELPERS.csproj.AssemblyReference.cache
+C:\Users\CARLINHO\source\repos\Hogwarts_API\HELPERS\obj\Debug\net5.0\HELPERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLINHO\source\repos\Hogwarts_API\HELPERS\obj\Debug\net5.0\HELPERS.AssemblyInfoInputs.cache
+C:\Users\CARLINHO\source\repos\Hogwarts_API\HELPERS\obj\Debug\net5.0\HELPERS.AssemblyInfo.cs
+C:\Users\CARLINHO\source\repos\Hogwarts_API\HELPERS\obj\Debug\net5.0\HELPERS.csproj.CoreCompileInputs.cache

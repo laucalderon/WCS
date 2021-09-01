@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="T:API.Controllers.SolicitudController">
+            <summary>
+            Controladora para la gestión de solicitudes de inscripción
+            </summary>
+        </member>
+        <member name="M:API.Controllers.SolicitudController.GetAllSolicitudes">
+            <summary>
+            Obtiene el listado de solicitudes de inscripción
+            </summary>
+            <returns>Retorna listado de solicitudes de inscripción</returns>           
+            <response code="200">OK. Se listan las solicitudes correctamente.</response>        
+            <response code="404">No se han encontrado solicitudes.</response>    
+            <response code="500">Ha ocurrido un error interno.</response>   
+        </member>
+        <member name="M:API.Controllers.SolicitudController.GetSolicitud(System.Int32)">
+            <summary>
+            Obtiene una solicitud de inscripción
+            </summary>
+            <param name="id"></param>
+            <returns>Retorna una solicitud de inscripción</returns>
+            <response code="200">OK. Se muestra la solicitud correctamente.</response>        
+            <response code="404">No se ha encontrado la solicitud.</response>    
+            <response code="500">Ha ocurrido un error interno.</response> 
+        </member>
+        <member name="M:API.Controllers.SolicitudController.PostSolicitud(API.Models.SolicitudRequest)">
+            <summary>
+            Agrega una solicitud de inscripción
+            </summary>
+            <param name="model"></param>
+            <returns>Retorna la solicitud de inscripción</returns>
+            <response code="200">OK. Se ha agregado la solicitud correctamente.</response> 
+            <response code="500">Ha ocurrido un error interno.</response> 
+        </member>
+        <member name="M:API.Controllers.SolicitudController.PutSolicitud(API.Models.SolicitudUpdate)">
+            <summary>
+            Actualiza una solicitud de inscripción
+            </summary>
+            <returns>Retorna la solicitud de inscripción</returns>
+            <response code="200">OK. Se ha editado la solicitud correctamente.</response>    
+            <response code="500">Ha ocurrido un error interno.</response> 
+        </member>
+        <member name="M:API.Controllers.SolicitudController.Delete(System.Int32)">
+            <summary>
+            Elimina una solicitud de inscripción
+            </summary>
+            <param name="id"></param>
+            <response code="200">OK. Se ha eliminado la solicitud correctamente.</response>        
+            <response code="404">No se ha encontrado la solicitud.</response>    
+            <response code="500">Ha ocurrido un error interno.</response> 
+        </member>
+    </members>
+</doc>
