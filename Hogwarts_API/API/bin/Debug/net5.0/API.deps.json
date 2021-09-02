@@ -124,6 +124,7 @@
           "Microsoft.CSharp.Reference": "5.0.0.0",
           "Microsoft.Extensions.Configuration.Binder": "5.0.0.0",
           "Microsoft.Extensions.Configuration.CommandLine": "5.0.0.0",
+          "Microsoft.Extensions.Configuration": "5.0.0.0",
           "Microsoft.Extensions.Configuration.EnvironmentVariables": "5.0.0.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "5.0.0.0",
           "Microsoft.Extensions.Configuration.Ini": "5.0.0.0",
@@ -369,7 +370,7 @@
       },
       "Microsoft.AspNetCore.Http.Features/2.2.0": {
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19"
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.5.21301.5"
         }
       },
       "Microsoft.AspNetCore.Mvc.Abstractions/2.2.0": {
@@ -492,7 +493,7 @@
       "Microsoft.EntityFrameworkCore.Relational/6.0.0-preview.5.21301.9": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.0-preview.5.21301.9",
-          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0-preview.7.21377.19"
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
           "lib/net5.0/Microsoft.EntityFrameworkCore.Relational.dll": {
@@ -527,7 +528,7 @@
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
       "Microsoft.Extensions.Caching.Abstractions/6.0.0-preview.5.21301.5": {
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19"
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {
@@ -545,7 +546,7 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0-preview.5.21301.5",
           "Microsoft.Extensions.Logging.Abstractions": "6.0.0-preview.5.21301.5",
           "Microsoft.Extensions.Options": "6.0.0-preview.5.21301.5",
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19"
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {
@@ -557,29 +558,14 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {}
         }
       },
-      "Microsoft.Extensions.Configuration/6.0.0-preview.7.21377.19": {
+      "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.5.21301.5": {
         "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0-preview.7.21377.19",
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.21.37719"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
-        }
-      },
-      "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.7.21377.19": {
-        "dependencies": {
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19"
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.21.37719"
+            "fileVersion": "6.0.21.30105"
           }
         },
         "compile": {
@@ -589,7 +575,7 @@
       "Microsoft.Extensions.DependencyInjection/6.0.0-preview.5.21301.5": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0-preview.5.21301.5",
-          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.7.21377.19"
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll": {
@@ -648,7 +634,7 @@
       "Microsoft.Extensions.Options/6.0.0-preview.5.21301.5": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0-preview.5.21301.5",
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19"
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
@@ -660,18 +646,18 @@
           "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {}
         }
       },
-      "Microsoft.Extensions.Primitives/6.0.0-preview.7.21377.19": {
+      "Microsoft.Extensions.Primitives/6.0.0-preview.5.21301.5": {
         "dependencies": {
-          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.7.21377.19"
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
-          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.21.37719"
+            "fileVersion": "6.0.21.30105"
           }
         },
         "compile": {
-          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
         }
       },
       "Microsoft.Identity.Client/4.21.1": {
@@ -755,7 +741,7 @@
       },
       "Microsoft.Net.Http.Headers/2.2.0": {
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19",
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.5.21301.5",
           "System.Buffers": "4.5.1"
         }
       },
@@ -832,7 +818,7 @@
       "System.Buffers/4.5.1": {},
       "System.Collections.Immutable/6.0.0-preview.5.21301.5": {
         "dependencies": {
-          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.7.21377.19"
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
           "lib/netstandard2.0/System.Collections.Immutable.dll": {
@@ -858,7 +844,7 @@
       },
       "System.Diagnostics.DiagnosticSource/6.0.0-preview.5.21301.5": {
         "dependencies": {
-          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.7.21377.19"
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.5.21301.5"
         },
         "runtime": {
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {
@@ -912,15 +898,15 @@
           }
         }
       },
-      "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.7.21377.19": {
+      "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.5.21301.5": {
         "runtime": {
-          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.21.37719"
+            "fileVersion": "6.0.21.30105"
           }
         },
         "compile": {
-          "ref/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "ref/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
       "System.Security.AccessControl/4.7.0": {
@@ -969,7 +955,6 @@
           "MODELOS": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.0-preview.5.21301.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0-preview.5.21301.9",
-          "Microsoft.Extensions.Configuration": "6.0.0-preview.7.21377.19",
           "UTILES": "1.0.0"
         },
         "runtime": {
@@ -1496,6 +1481,12 @@
       "Microsoft.Extensions.Configuration.CommandLine/5.0.0.0": {
         "compile": {
           "Microsoft.Extensions.Configuration.CommandLine.dll": {}
+        },
+        "compileOnly": true
+      },
+      "Microsoft.Extensions.Configuration/5.0.0.0": {
+        "compile": {
+          "Microsoft.Extensions.Configuration.dll": {}
         },
         "compileOnly": true
       },
@@ -2787,19 +2778,12 @@
       "path": "microsoft.extensions.caching.memory/6.0.0-preview.5.21301.5",
       "hashPath": "microsoft.extensions.caching.memory.6.0.0-preview.5.21301.5.nupkg.sha512"
     },
-    "Microsoft.Extensions.Configuration/6.0.0-preview.7.21377.19": {
+    "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.5.21301.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gmd/z9KFruNb6N0yQXaKxPJU3IW9J3LtCx2x+Z7DuWVTjvO4QgZpEYcv06AWdsvkCx7Tl5EMNw09kc8HrmE5tg==",
-      "path": "microsoft.extensions.configuration/6.0.0-preview.7.21377.19",
-      "hashPath": "microsoft.extensions.configuration.6.0.0-preview.7.21377.19.nupkg.sha512"
-    },
-    "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.7.21377.19": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-E7jldErD3SGhDuxilC2H7UaATGpJJc+pYpYpsiSEhIveM6ldSwjRCqg3iousXnF1zdDMRESsCROYwPIVygoyVQ==",
-      "path": "microsoft.extensions.configuration.abstractions/6.0.0-preview.7.21377.19",
-      "hashPath": "microsoft.extensions.configuration.abstractions.6.0.0-preview.7.21377.19.nupkg.sha512"
+      "sha512": "sha512-AWVzWl3d/PY2yFGOWLf+uerf5gwJ5+POXJNHpThQ/uQVmBiH+4aNU4UFj5P5cZr586MyzCI18ckD7pjtGpWREA==",
+      "path": "microsoft.extensions.configuration.abstractions/6.0.0-preview.5.21301.5",
+      "hashPath": "microsoft.extensions.configuration.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection/6.0.0-preview.5.21301.5": {
       "type": "package",
@@ -2836,12 +2820,12 @@
       "path": "microsoft.extensions.options/6.0.0-preview.5.21301.5",
       "hashPath": "microsoft.extensions.options.6.0.0-preview.5.21301.5.nupkg.sha512"
     },
-    "Microsoft.Extensions.Primitives/6.0.0-preview.7.21377.19": {
+    "Microsoft.Extensions.Primitives/6.0.0-preview.5.21301.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-dbYTaKld3fbZETLzYknl5np8/rnas3isR3RQi0xvZNrz4S1bhn7lsEbu8ACwMAQxPxiKBgl59RKUNVmqjJ4Aww==",
-      "path": "microsoft.extensions.primitives/6.0.0-preview.7.21377.19",
-      "hashPath": "microsoft.extensions.primitives.6.0.0-preview.7.21377.19.nupkg.sha512"
+      "sha512": "sha512-96H1AKEQjWP1B0Qq9eQGHaJfYFCCL1XC5c5yKO5JhjfwuXmZ8exFAyMkb/0VS8f/pH5BgVGAxGbLfw82acXYQA==",
+      "path": "microsoft.extensions.primitives/6.0.0-preview.5.21301.5",
+      "hashPath": "microsoft.extensions.primitives.6.0.0-preview.5.21301.5.nupkg.sha512"
     },
     "Microsoft.Identity.Client/4.21.1": {
       "type": "package",
@@ -3011,12 +2995,12 @@
       "path": "system.runtime.caching/4.7.0",
       "hashPath": "system.runtime.caching.4.7.0.nupkg.sha512"
     },
-    "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.7.21377.19": {
+    "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.5.21301.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-G9eKxgKE5UoyJdB4tpBFCWlgky34N11QDIjn92g6BwqII03yra4raegNNt3y3lmN6k+VDLIzgVMuddZ7LT6TEw==",
-      "path": "system.runtime.compilerservices.unsafe/6.0.0-preview.7.21377.19",
-      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0-preview.7.21377.19.nupkg.sha512"
+      "sha512": "sha512-hBZKrPKTlSFCNVFFYsm8n4LdufxPA3UPdCT72F5PMdccZOta9Bg1UUu8KwWl0zcoBtk7jVJpZ+oAaV+9tq5GjQ==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0-preview.5.21301.5",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0-preview.5.21301.5.nupkg.sha512"
     },
     "System.Security.AccessControl/4.7.0": {
       "type": "package",
@@ -3495,6 +3479,11 @@
       "sha512": ""
     },
     "Microsoft.Extensions.Configuration.CommandLine/5.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration/5.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""

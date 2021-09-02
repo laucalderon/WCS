@@ -36,3 +36,22 @@ C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REP
 C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.dll
 C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\ref\REPOSITORIO.dll
 C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\REPOSITORIO.deps.json
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\REPOSITORIO.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\ref\REPOSITORIO.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\REPOSITORIO.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\ACCESO.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\MODELOS.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\UTILES.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\ACCESO.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\UTILES.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\bin\Debug\net5.0\MODELOS.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.csproj.AssemblyReference.cache
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.AssemblyInfoInputs.cache
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.AssemblyInfo.cs
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.csproj.CoreCompileInputs.cache
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.csproj.CopyComplete
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\ref\REPOSITORIO.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\REPOSITORIO\obj\Debug\net5.0\REPOSITORIO.pdb

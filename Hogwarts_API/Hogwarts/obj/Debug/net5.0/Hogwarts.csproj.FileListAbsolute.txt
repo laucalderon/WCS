@@ -40,3 +40,24 @@ C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwar
 C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.dll
 C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\Hogwarts\obj\Debug\net5.0\ref\Hogwarts.dll
 C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\Hogwarts.deps.json
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\Hogwarts.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\ref\Hogwarts.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\Hogwarts.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\ACCESO.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\MODELOS.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\REPOSITORIO.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\UTILES.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\REPOSITORIO.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\UTILES.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\ACCESO.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\bin\Debug\net5.0\MODELOS.pdb
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.csproj.AssemblyReference.cache
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.AssemblyInfoInputs.cache
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.AssemblyInfo.cs
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.csproj.CoreCompileInputs.cache
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.csproj.CopyComplete
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\ref\Hogwarts.dll
+C:\Users\CARLINHO\source\repos\Nueva carpeta\Hogwarts_API\Hogwarts\obj\Debug\net5.0\Hogwarts.pdb

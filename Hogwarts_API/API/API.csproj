@@ -22,9 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DATOS\MODELOS.csproj" />
+    <ProjectReference Include="..\MODELOS\MODELOS.csproj" />
     <ProjectReference Include="..\Hogwarts\Hogwarts.csproj" />
-    <ProjectReference Include="..\NEGOCIO\ACCESO.csproj" />
+    <ProjectReference Include="..\ACCESO\ACCESO.csproj" />
     <ProjectReference Include="..\REPOSITORIO\REPOSITORIO.csproj" />
   </ItemGroup>
 

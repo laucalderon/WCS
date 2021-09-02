@@ -278,23 +278,10 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {}
         }
       },
-      "Microsoft.Extensions.Configuration/6.0.0-preview.7.21377.19": {
+      "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.5.21301.5": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0-preview.7.21377.19",
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19"
-        },
-        "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
-        }
-      },
-      "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.7.21377.19": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.7.21377.19"
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.5.21301.5"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
@@ -367,19 +354,16 @@
           "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {}
         }
       },
-      "Microsoft.Extensions.Primitives/6.0.0-preview.7.21377.19": {
+      "Microsoft.Extensions.Primitives/6.0.0-preview.5.21301.5": {
         "type": "package",
         "dependencies": {
-          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.7.21377.19"
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.5.21301.5"
         },
         "compile": {
-          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
-        },
-        "build": {
-          "buildTransitive/netcoreapp3.1/_._": {}
+          "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
         }
       },
       "Microsoft.Identity.Client/4.21.1": {
@@ -696,16 +680,13 @@
           }
         }
       },
-      "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.7.21377.19": {
+      "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.5.21301.5": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "ref/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
-        },
-        "build": {
-          "buildTransitive/netcoreapp3.1/_._": {}
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
       "System.Security.AccessControl/4.7.0": {
@@ -840,8 +821,7 @@
         "dependencies": {
           "MODELOS": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.0-preview.5.21301.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9",
-          "Microsoft.Extensions.Configuration": "6.0.0-preview.7.21377.19",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0-preview.5.21301.9",
           "UTILES": "1.0.0"
         },
         "compile": {
@@ -1327,29 +1307,10 @@
         "microsoft.extensions.caching.memory.nuspec"
       ]
     },
-    "Microsoft.Extensions.Configuration/6.0.0-preview.7.21377.19": {
-      "sha512": "gmd/z9KFruNb6N0yQXaKxPJU3IW9J3LtCx2x+Z7DuWVTjvO4QgZpEYcv06AWdsvkCx7Tl5EMNw09kc8HrmE5tg==",
+    "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.5.21301.5": {
+      "sha512": "AWVzWl3d/PY2yFGOWLf+uerf5gwJ5+POXJNHpThQ/uQVmBiH+4aNU4UFj5P5cZr586MyzCI18ckD7pjtGpWREA==",
       "type": "package",
-      "path": "microsoft.extensions.configuration/6.0.0-preview.7.21377.19",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net461/Microsoft.Extensions.Configuration.dll",
-        "lib/net461/Microsoft.Extensions.Configuration.xml",
-        "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
-        "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
-        "microsoft.extensions.configuration.6.0.0-preview.7.21377.19.nupkg.sha512",
-        "microsoft.extensions.configuration.nuspec",
-        "useSharedDesignerContext.txt"
-      ]
-    },
-    "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.7.21377.19": {
-      "sha512": "E7jldErD3SGhDuxilC2H7UaATGpJJc+pYpYpsiSEhIveM6ldSwjRCqg3iousXnF1zdDMRESsCROYwPIVygoyVQ==",
-      "type": "package",
-      "path": "microsoft.extensions.configuration.abstractions/6.0.0-preview.7.21377.19",
+      "path": "microsoft.extensions.configuration.abstractions/6.0.0-preview.5.21301.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1360,9 +1321,8 @@
         "lib/net461/Microsoft.Extensions.Configuration.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
-        "microsoft.extensions.configuration.abstractions.6.0.0-preview.7.21377.19.nupkg.sha512",
-        "microsoft.extensions.configuration.abstractions.nuspec",
-        "useSharedDesignerContext.txt"
+        "microsoft.extensions.configuration.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.nuspec"
       ]
     },
     "Microsoft.Extensions.DependencyInjection/6.0.0-preview.5.21301.5": {
@@ -1479,29 +1439,26 @@
         "microsoft.extensions.options.nuspec"
       ]
     },
-    "Microsoft.Extensions.Primitives/6.0.0-preview.7.21377.19": {
-      "sha512": "dbYTaKld3fbZETLzYknl5np8/rnas3isR3RQi0xvZNrz4S1bhn7lsEbu8ACwMAQxPxiKBgl59RKUNVmqjJ4Aww==",
+    "Microsoft.Extensions.Primitives/6.0.0-preview.5.21301.5": {
+      "sha512": "96H1AKEQjWP1B0Qq9eQGHaJfYFCCL1XC5c5yKO5JhjfwuXmZ8exFAyMkb/0VS8f/pH5BgVGAxGbLfw82acXYQA==",
       "type": "package",
-      "path": "microsoft.extensions.primitives/6.0.0-preview.7.21377.19",
+      "path": "microsoft.extensions.primitives/6.0.0-preview.5.21301.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
-        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Primitives.targets",
-        "buildTransitive/netcoreapp3.1/_._",
         "lib/net461/Microsoft.Extensions.Primitives.dll",
         "lib/net461/Microsoft.Extensions.Primitives.xml",
         "lib/net6.0/Microsoft.Extensions.Primitives.dll",
         "lib/net6.0/Microsoft.Extensions.Primitives.xml",
-        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
-        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
+        "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
-        "microsoft.extensions.primitives.6.0.0-preview.7.21377.19.nupkg.sha512",
-        "microsoft.extensions.primitives.nuspec",
-        "useSharedDesignerContext.txt"
+        "microsoft.extensions.primitives.6.0.0-preview.5.21301.5.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec"
       ]
     },
     "Microsoft.Identity.Client/4.21.1": {
@@ -2096,39 +2053,34 @@
         "version.txt"
       ]
     },
-    "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.7.21377.19": {
-      "sha512": "G9eKxgKE5UoyJdB4tpBFCWlgky34N11QDIjn92g6BwqII03yra4raegNNt3y3lmN6k+VDLIzgVMuddZ7LT6TEw==",
+    "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.5.21301.5": {
+      "sha512": "hBZKrPKTlSFCNVFFYsm8n4LdufxPA3UPdCT72F5PMdccZOta9Bg1UUu8KwWl0zcoBtk7jVJpZ+oAaV+9tq5GjQ==",
       "type": "package",
-      "path": "system.runtime.compilerservices.unsafe/6.0.0-preview.7.21377.19",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0-preview.5.21301.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
-        "buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets",
-        "buildTransitive/netcoreapp3.1/_._",
-        "lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
-        "lib/net461/System.Runtime.CompilerServices.Unsafe.xml",
-        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll",
-        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.xml",
-        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll",
-        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/net45/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net45/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
         "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
         "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
         "ref/net461/System.Runtime.CompilerServices.Unsafe.dll",
         "ref/net461/System.Runtime.CompilerServices.Unsafe.xml",
-        "ref/net6.0/System.Runtime.CompilerServices.Unsafe.dll",
-        "ref/net6.0/System.Runtime.CompilerServices.Unsafe.xml",
-        "ref/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll",
-        "ref/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
         "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
         "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
         "ref/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll",
         "ref/netstandard2.1/System.Runtime.CompilerServices.Unsafe.xml",
-        "system.runtime.compilerservices.unsafe.6.0.0-preview.7.21377.19.nupkg.sha512",
-        "system.runtime.compilerservices.unsafe.nuspec",
-        "useSharedDesignerContext.txt"
+        "system.runtime.compilerservices.unsafe.6.0.0-preview.5.21301.5.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec"
       ]
     },
     "System.Security.AccessControl/4.7.0": {
@@ -2448,8 +2400,8 @@
     },
     "ACCESO/1.0.0": {
       "type": "project",
-      "path": "../NEGOCIO/ACCESO.csproj",
-      "msbuildProject": "../NEGOCIO/ACCESO.csproj"
+      "path": "../ACCESO/ACCESO.csproj",
+      "msbuildProject": "../ACCESO/ACCESO.csproj"
     },
     "Hogwarts/1.0.0": {
       "type": "project",
@@ -2458,8 +2410,8 @@
     },
     "MODELOS/1.0.0": {
       "type": "project",
-      "path": "../DATOS/MODELOS.csproj",
-      "msbuildProject": "../DATOS/MODELOS.csproj"
+      "path": "../MODELOS/MODELOS.csproj",
+      "msbuildProject": "../MODELOS/MODELOS.csproj"
     },
     "REPOSITORIO/1.0.0": {
       "type": "project",
@@ -2494,11 +2446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\API\\API.csproj",
+      "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\CARLINHO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\API\\obj\\",
+      "outputPath": "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2513,23 +2465,24 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\CARLINHO\\Downloads\\paquetes": {}
+        "C:\\Users\\CARLINHO\\Downloads\\paquetes": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\DATOS\\MODELOS.csproj": {
-              "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\DATOS\\MODELOS.csproj"
+            "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\ACCESO\\ACCESO.csproj": {
+              "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\ACCESO\\ACCESO.csproj"
             },
-            "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj": {
-              "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj"
+            "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj": {
+              "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\Hogwarts\\Hogwarts.csproj"
             },
-            "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj": {
-              "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\NEGOCIO\\ACCESO.csproj"
+            "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\MODELOS\\MODELOS.csproj": {
+              "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\MODELOS\\MODELOS.csproj"
             },
-            "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj": {
-              "projectPath": "C:\\Users\\CARLINHO\\Source\\Repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj"
+            "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj": {
+              "projectPath": "C:\\Users\\CARLINHO\\source\\repos\\WCS\\Hogwarts_API\\REPOSITORIO\\REPOSITORIO.csproj"
             }
           }
         }

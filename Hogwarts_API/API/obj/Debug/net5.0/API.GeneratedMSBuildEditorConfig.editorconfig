@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = API
-build_property.ProjectDir = C:\Users\CARLINHO\Source\Repos\WCS\Hogwarts_API\API\
+build_property.ProjectDir = C:\Users\CARLINHO\source\repos\WCS\Hogwarts_API\API\
